@@ -52,10 +52,14 @@ def merge(left, right, lt):
 
 
 
-
+#usage:
+#example list:
 l = [10, 5, 6, 2, 9, 7, 8, 1, 4, 3]
+#print unsorted list
 print l
+#run merge sort algorithm
 sortedList = neumannSort(l)
+#print sorted list
 print sortedList
 
 
